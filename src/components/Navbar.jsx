@@ -72,13 +72,6 @@ function Navbar() {
               Contact Us
             </NavLink>
 
-            <Link
-              to="/contact-us"
-              onClick={() => setIsOpen(false)}
-              className="mt-4 inline-block bg-[#F5D000] text-black px-6 py-3 rounded-full font-semibold"
-            >
-              Get Quote
-            </Link>
           </nav>
         </div>
       )}
