@@ -5,17 +5,15 @@ function Footer() {
   return (
     <footer className="bg-black text-white">
       <div className="max-w-[1400px] mx-auto px-6 py-14 grid md:grid-cols-3 gap-10">
-
         {/* Brand */}
         <div>
-          <img
-            src={logo}
-            alt="TruckBookers"
-            className="h-12 mb-4"
-          />
+          <img src={logo} alt="TruckBookers" className="h-12 mb-4" />
 
           <p className="text-gray-400 leading-7">
-           Truckbookers contributes to Qatar's Vision 2030 objectives of economic diversification, digital transformation and sustainable development while strengthening the resilience and competitiveness of the national logistics sector.
+            Truckbookers contributes to Qatar's Vision 2030 objectives of
+            economic diversification, digital transformation and sustainable
+            development while strengthening the resilience and competitiveness
+            of the national logistics sector.
           </p>
         </div>
 
@@ -46,14 +44,32 @@ function Footer() {
             >
               Contact Us
             </Link>
+            <Link
+              to="/privacy-policy"
+              className="text-gray-400 hover:text-[#F5D000] transition"
+            >
+              Privacy Policy
+            </Link>
+
+            <Link
+              to="/terms-of-service"
+              className="text-gray-400 hover:text-[#F5D000] transition"
+            >
+              Terms of Service
+            </Link>
+
+            <Link
+              to="/data-deletion"
+              className="text-gray-400 hover:text-[#F5D000] transition"
+            >
+              Data Deletion
+            </Link>
           </div>
         </div>
 
         {/* Contact */}
         <div>
-          <h3 className="text-[#F5D000] font-semibold text-lg mb-4">
-            Contact
-          </h3>
+          <h3 className="text-[#F5D000] font-semibold text-lg mb-4">Contact</h3>
 
           <div className="space-y-3 text-gray-400">
             <p>info@truckbookers.com</p>
