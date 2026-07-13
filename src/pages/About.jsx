@@ -18,7 +18,7 @@ function About() {
             </h1>
 
             <p className="mt-8 text-gray-700 text-lg leading-8 max-w-xl">
-              TruckBookers is a Qatar-based logistics technology platform
+              Truckbookers is a Qatar-based logistics technology platform
               simplifying commercial vehicle booking, fleet aggregation,
               real-time tracking, and digital logistics operations.
             </p>
@@ -53,7 +53,7 @@ function About() {
           <div className="relative">
             <img
               src="/about-hero.jpg"
-              alt="TruckBookers"
+              alt="Truckbookers"
               className="rounded-[2rem] shadow-2xl w-full h-[500px] object-cover"
             />
 
@@ -81,7 +81,7 @@ function About() {
             </h2>
 
             <p className="mt-5 text-gray-600 leading-8">
-              TruckBookers connects businesses, contractors, fleet operators,
+              Truckbookers connects businesses, contractors, fleet operators,
               and drivers through a unified digital marketplace. Our platform is
               designed to improve transparency, increase fleet utilization, and
               support Qatar’s growing logistics ecosystem.

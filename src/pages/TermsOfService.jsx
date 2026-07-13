@@ -8,10 +8,10 @@ function TermsOfService() {
           {" "}
           <p className="text-[#F5D000] font-bold mb-4">Terms of Service </p>
           <h1 className="text-4xl md:text-6xl font-bold text-black">
-            TruckBookers App License Agreement and Terms of Service
+            Truckbookers App License Agreement and Terms of Service
           </h1>
           <p className="mt-6 text-gray-700 max-w-3xl text-lg">
-            These terms govern the use of the TruckBookers platform, including
+            These terms govern the use of the Truckbookers platform, including
             the website, mobile application, and related logistics technology
             services.
           </p>
@@ -77,7 +77,7 @@ function TermsOfService() {
                 2. Scope of Service
               </h2>
               <p className="text-gray-700 leading-7">
-                TruckBookers is a technology platform facilitating connections
+                Truckbookers is a technology platform facilitating connections
                 between customers, carriers, and drivers. It does not directly
                 offer transport services nor is responsible for shipment
                 legality, safety, or necessary permits.
@@ -239,7 +239,7 @@ function TermsOfService() {
               </h2>
               <p className="text-gray-700 leading-7">
                 All platform content, design, text, graphics, media, and
-                trademarks are owned by TruckBookers. Unauthorized use or
+                trademarks are owned by Truckbookers. Unauthorized use or
                 reproduction is prohibited.
               </p>
             </div>

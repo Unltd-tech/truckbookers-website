@@ -8,10 +8,10 @@ function PrivacyPolicy() {
           {" "}
           <p className="text-[#F5D000] font-bold mb-4">Privacy Policy </p>
           <h1 className="text-4xl md:text-6xl font-bold text-black">
-            TruckBookers Privacy Policy
+            Truckbookers Privacy Policy
           </h1>
           <p className="mt-6 text-gray-700 max-w-3xl text-lg">
-            This Privacy Policy describes how TruckBookers collects, uses,
+            This Privacy Policy describes how Truckbookers collects, uses,
             stores, and protects information provided by users of the platform.
           </p>
         </div>
@@ -59,7 +59,7 @@ function PrivacyPolicy() {
               <h2 className="text-2xl font-bold mb-4">Data Sharing</h2>
 
               <p className="text-gray-700 leading-7">
-                TruckBookers may share information with customers, carriers,
+                Truckbookers may share information with customers, carriers,
                 drivers, payment providers, regulatory authorities, and other
                 service providers where necessary to deliver services, comply
                 with legal obligations, or protect platform users.
@@ -80,7 +80,7 @@ function PrivacyPolicy() {
               <h2 className="text-2xl font-bold mb-4">Data Security</h2>
 
               <p className="text-gray-700 leading-7">
-                TruckBookers takes reasonable technical and organizational
+                Truckbookers takes reasonable technical and organizational
                 measures to protect user information from unauthorized access,
                 disclosure, misuse, alteration, or destruction.
               </p>
@@ -112,7 +112,7 @@ function PrivacyPolicy() {
 
               <p className="text-gray-700 leading-7">
                 Users may request account deletion through the application or by
-                contacting TruckBookers support. For detailed instructions,
+                contacting Truckbookers support. For detailed instructions,
                 please refer to the Data Deletion page.
               </p>
             </div>

@@ -20,7 +20,7 @@ function Navbar() {
     <header className="fixed top-0 left-0 w-full bg-white/95 backdrop-blur z-50 border-b border-[#F5D000] shadow-sm">
       <div className="max-w-[1400px] mx-auto px-6 py-4 flex items-center justify-between">
         <Link to="/" onClick={() => setIsOpen(false)}>
-          <img src={logo} alt="TruckBookers" className="h-10 md:h-12" />
+          <img src={logo} alt="Truckbookers" className="h-10 md:h-12" />
         </Link>
 
         <nav className="hidden md:flex items-center gap-8 text-sm font-medium">

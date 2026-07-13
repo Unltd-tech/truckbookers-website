@@ -229,7 +229,7 @@ function Home() {
           </h2>
 
           <p className="mt-4 text-gray-600 max-w-3xl mx-auto">
-            TruckBookers helps customers book verified commercial vehicles while
+            Truckbookers helps customers book verified commercial vehicles while
             enabling fleet owners to increase utilization and grow their
             business.
           </p>
@@ -326,11 +326,11 @@ function Home() {
         </div>
       </section>
 
-      {/* Why TruckBookers */}
+      {/* Why Truckbookers */}
       <section className="py-20 bg-black text-white">
         <div className="max-w-[1400px] mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
           <div>
-            <p className="text-[#F5D000] font-bold mb-4">Why TruckBookers?</p>
+            <p className="text-[#F5D000] font-bold mb-4">Why Truckbookers?</p>
 
             <h2 className="text-3xl md:text-4xl font-bold">
               Built for Qatar’s Modern Logistics Needs
@@ -338,7 +338,7 @@ function Home() {
 
             <p className="mt-5 text-gray-300 leading-8">
               From transparent pricing to verified fleet onboarding,
-              TruckBookers brings structure, visibility, and efficiency to
+              Truckbookers brings structure, visibility, and efficiency to
               Qatar’s commercial vehicle ecosystem.
             </p>
           </div>
@@ -369,7 +369,7 @@ function Home() {
           </h2>
 
           <p className="mt-6 text-gray-700 leading-8">
-            TruckBookers aims to become Qatar's leading commercial vehicle
+            Truckbookers aims to become Qatar's leading commercial vehicle
             marketplace by combining fleet aggregation, real-time tracking,
             route optimization, and data-driven logistics planning.
           </p>
@@ -384,7 +384,7 @@ function Home() {
           </h2>
 
           <p className="mt-4 text-black/70">
-            Contact TruckBookers today for bookings, partnerships, and business
+            Contact Truckbookers today for bookings, partnerships, and business
             enquiries.
           </p>
 

@@ -7,7 +7,7 @@ function Footer() {
       <div className="max-w-[1400px] mx-auto px-6 py-14 grid md:grid-cols-3 gap-10">
         {/* Brand */}
         <div>
-          <img src={logo} alt="TruckBookers" className="h-12 mb-4" />
+          <img src={logo} alt="Truckbookers" className="h-12 mb-4" />
 
           <p className="text-gray-400 leading-7">
             Truckbookers contributes to Qatar's Vision 2030 objectives of
@@ -83,7 +83,7 @@ function Footer() {
       <div className="border-t border-[#F5D000]/20">
         <div className="max-w-[1400px] mx-auto px-6 py-5 flex flex-col md:flex-row justify-between items-center gap-3">
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} TruckBookers. All rights reserved.
+            © {new Date().getFullYear()} Truckbookers. All rights reserved.
           </p>
 
           <p className="text-sm text-gray-500">

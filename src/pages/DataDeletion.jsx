@@ -8,7 +8,7 @@ Data Deletion </p>
       </h1>
 
       <p className="mt-6 text-gray-700 max-w-3xl text-lg">
-        At TruckBookers, we respect your privacy and provide users with the
+        At Truckbookers, we respect your privacy and provide users with the
         ability to delete their account and personal data directly from the
         application.
       </p>
@@ -30,13 +30,13 @@ Data Deletion </p>
         </h2>
 
         <p className="mt-5 text-gray-600 leading-8">
-          You can delete your TruckBookers account directly from the app by
+          You can delete your Truckbookers account directly from the app by
           following the steps below.
         </p>
 
         <div className="mt-10 bg-[#FAFAFA] p-8 rounded-3xl border">
           <ol className="list-decimal pl-6 space-y-4 text-gray-700">
-            <li>Open the TruckBookers application.</li>
+            <li>Open the Truckbookers application.</li>
             <li>Log in to your account.</li>
             <li>Navigate to Profile.</li>
             <li>Select Profile Edit.</li>
